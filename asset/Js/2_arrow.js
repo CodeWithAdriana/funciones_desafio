@@ -1,7 +1,8 @@
-let suma = function(a, b){
-    return a + b
-}
+//Bloque principal
+//let suma = function(a, b){
+//    return a + b
+//}
 
-//cambiando a arrow function de una linea. 
+//Cambiando a arrow function de una línea. 
 
 let suma = (a, b) => a + b;
